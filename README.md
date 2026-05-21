@@ -90,23 +90,6 @@ PDF Upload
 → LLM Response
 
 ---
-
-## 📁 Project Structure
-
-```text
-ai-college-companion/
-│
-├── frontend/
-│   ├── src/
-│   ├── public/
-│
-├── backend/
-│   ├── routes/
-│   ├── services/
-│   ├── main.py
-│   ├── .env
-│
-├── README.md
 BACKEND SETUP:
 pip install fastapi uvicorn requests python-dotenv
 pip install pypdf python-multipart
@@ -126,7 +109,40 @@ ENVIRONMENT VARIABLE
 API_KEY=your_openrouter_api_key
 
 
+## 📁 Project Structure
+
+```text
+ai-college-companion/
+│
+├── frontend/
+│   ├── src/
+│   ├── public/
+│
+├── backend/
+│   ├── routes/
+│   ├── services/
+│   ├── main.py
+│   ├── .env
+│
+├── README.md
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 👨‍💻 Author
 
 Surya Prabha
+
+
+
+
