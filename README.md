@@ -4,6 +4,9 @@ CampusGPT is an AI-powered academic assistant developed to address the limitatio
 
 UI References 
 ChatGPT Style 
+
+
+
 <img width="539" height="383" alt="image" src="https://github.com/user-attachments/assets/fd007548-6cf6-4d6b-ac10-c7febe4461f8" />
 
 Clean
